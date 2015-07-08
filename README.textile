@@ -1,0 +1,1 @@
+Scrapes the case records for cases in the UK Supreme Court, not to be confused with the judgments given in those cases which appear in a different data set
